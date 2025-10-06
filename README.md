@@ -2,8 +2,7 @@
 
 Este repositório contém as bases de dados para a análise do mercado de distribuição de GLP no Brasil.
 
-O arquivo principal é: **`Base Final GLP.xlsx`**, composto por seis planilhas (abas) que apresentam dados de preços, margens, participação de mercado da Liquigás e índices de concentração, organizados de forma cronológica e separados por estados brasileiros.
-As planilhas apresentam valores organizados por mês/ano para cada estado brasileiro (siglas das UFs em ordem alfabética).
+O arquivo principal é: **`Base Final GLP.xlsx`**, composto por seis planilhas (abas) que apresentam dados de preços, margens, participação de mercado da Liquigás e índices de concentração, organizados por mês/ano para cada estado brasileiro (siglas das UFs em ordem alfabética).
 
 OBS. As abas **'PARTICIPAÇÃO LIQUIGÁS'**, **'CR4'** e **'HHI'** apresentam no fim de cada bloco de colunas mensais uma coluna adicional denominada **“ANO Total”**, indicando os valores agregados no respectivo ano.
 
